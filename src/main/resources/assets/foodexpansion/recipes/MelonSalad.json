@@ -1,0 +1,25 @@
+{
+  "result": {
+      "item": "foodexpansion:itemMelonSalad"
+  },
+  "type": "forge:ore_shapeless",
+  "ingredients": [
+    {
+        "item": "minecraft:bowl"
+	},
+	{
+		"item": "minecraft:melon"
+	},
+	{
+		"item": "minecraft:melon"
+	},
+	{
+		"item": "minecraft:melon"
+    }
+  ],
+  "conditions": [
+	{
+		"type": "foodexpansion:EnableMelonSalad"
+	}
+  ]
+}

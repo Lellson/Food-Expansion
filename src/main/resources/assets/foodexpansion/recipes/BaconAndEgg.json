@@ -1,0 +1,19 @@
+{
+  "result": {
+      "item": "foodexpansion:itemBaconAndEgg"
+  },
+  "type": "forge:ore_shapeless",
+  "ingredients": [
+    {
+        "item": "foodexpansion:itemCookedBacon"
+    },
+	{
+		"item": "foodexpansion:itemFriedEgg"
+	}
+  ],
+  "conditions": [
+	{
+		"type": "foodexpansion:EnableBaconAndEgg"
+	}
+  ]
+}

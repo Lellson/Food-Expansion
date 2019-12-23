@@ -1,0 +1,22 @@
+{
+  "result": {
+      "item": "foodexpansion:itemCarrotPie"
+  },
+  "type": "forge:ore_shapeless",
+  "ingredients": [
+    {
+        "item": "minecraft:carrot"
+	},
+	{
+		"item": "minecraft:wheat"
+	},
+	{
+		"item": "minecraft:egg"
+    }
+  ],
+  "conditions": [
+	{
+		"type": "foodexpansion:EnableCarrotPie"
+	}
+  ]
+}

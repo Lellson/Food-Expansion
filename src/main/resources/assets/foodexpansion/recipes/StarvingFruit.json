@@ -1,0 +1,24 @@
+{
+  "result": {
+    "item": "foodexpansion:itemStarvingFruit"
+  },
+  "pattern": [
+    "rrr",
+    "rdr",
+    "rrr"
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "r": {
+      "item": "minecraft:rotten_flesh"
+    },
+    "d": {
+      "item": "minecraft:diamond_block"
+    }
+  },
+  "conditions": [
+	{
+		"type": "foodexpansion:EnableStarvingFruit"
+	}
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "result": {
+      "item": "foodexpansion:itemSpiderSoup"
+  },
+  "type": "forge:ore_shapeless",
+  "ingredients": [
+    {
+        "item": "minecraft:bowl"
+	},
+	{
+		"item": "minecraft:fermented_spider_eye"
+	},
+	{
+		"item": "minecraft:spider_eye"
+	}
+  ],
+  "conditions": [
+	{
+		"type": "foodexpansion:EnableSpiderSoup"
+	}
+  ]
+}

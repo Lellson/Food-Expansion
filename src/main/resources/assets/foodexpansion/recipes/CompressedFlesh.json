@@ -1,0 +1,28 @@
+{
+  "result": {
+      "item": "foodexpansion:itemCompressedFlesh"
+  },
+  "type": "forge:ore_shapeless",
+  "ingredients": [
+    {
+        "item": "minecraft:rotten_flesh"
+	},
+	{
+		"item": "minecraft:rotten_flesh"
+	},
+	{
+		"item": "minecraft:rotten_flesh"
+	},
+	{
+		"item": "minecraft:rotten_flesh"
+	},
+	{
+		"item": "minecraft:sugar"
+    }
+  ],
+  "conditions": [
+	{
+		"type": "foodexpansion:EnableCompressedFlesh"
+	}
+  ]
+}

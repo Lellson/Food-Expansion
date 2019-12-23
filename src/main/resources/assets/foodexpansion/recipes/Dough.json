@@ -1,0 +1,41 @@
+{
+  "result": {
+      "item": "foodexpansion:itemDough",
+	  "count": 4
+  },
+  "type": "forge:ore_shapeless",
+  "ingredients": [
+    {
+        "item": "minecraft:wheat"
+	},
+    {
+        "item": "minecraft:wheat"
+	},
+    {
+        "item": "minecraft:wheat"
+	},
+    {
+        "item": "minecraft:wheat"
+	},
+    {
+        "item": "minecraft:wheat"
+	},
+    {
+        "item": "minecraft:wheat"
+	},
+    {
+        "item": "minecraft:wheat"
+	},
+    {
+        "item": "minecraft:wheat"
+	},
+	{
+		"item": "minecraft:water_bucket"
+    }
+  ],
+  "conditions": [
+	{
+		"type": "foodexpansion:EnableDough"
+	}
+  ]
+}

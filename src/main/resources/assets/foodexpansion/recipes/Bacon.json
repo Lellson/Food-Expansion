@@ -1,0 +1,17 @@
+{
+  "result": {
+      "item": "foodexpansion:itemBacon",
+	  "count": 2
+  },
+  "type": "forge:ore_shapeless",
+  "ingredients": [
+    {
+        "item": "minecraft:porkchop"
+    }
+  ],
+  "conditions": [
+	{
+		"type": "foodexpansion:EnableBacon"
+	}
+  ]
+}

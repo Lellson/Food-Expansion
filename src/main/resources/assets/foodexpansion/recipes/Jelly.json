@@ -1,0 +1,28 @@
+{
+  "result": {
+      "item": "foodexpansion:itemJelly"
+  },
+  "type": "forge:ore_shapeless",
+  "ingredients": [
+    {
+        "item": "minecraft:slime_ball"
+	},
+	{
+		"item": "minecraft:slime_ball"
+	},
+	{
+		"item": "minecraft:slime_ball"
+	},
+	{
+		"item": "minecraft:slime_ball"
+	},
+	{
+		"item": "minecraft:sugar"
+	}
+  ],
+  "conditions": [
+	{
+		"type": "foodexpansion:EnableJelly"
+	}
+  ]
+}

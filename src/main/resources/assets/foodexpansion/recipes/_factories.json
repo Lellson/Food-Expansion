@@ -1,0 +1,21 @@
+{
+    "conditions": {
+        "EnableJelly": "lellson.foodexpansion.crafting.FactoryJelly",
+		"EnableBacon": "lellson.foodexpansion.crafting.FactoryBacon",
+		"EnableBaconAndEgg": "lellson.foodexpansion.crafting.FactoryBaconAndEgg",
+		"EnableCarrotSeedSoup": "lellson.foodexpansion.crafting.FactoryCarrotSeedSoup",
+		"EnableCompressedFlesh": "lellson.foodexpansion.crafting.FactoryCompressedFlesh",
+		"EnableChocolateBar": "lellson.foodexpansion.crafting.FactoryChocolateBar",
+		"EnableSpiderSoup": "lellson.foodexpansion.crafting.FactorySpiderSoup",
+		"EnableNetherWartSoup": "lellson.foodexpansion.crafting.FactoryNetherWartSoup",
+		"EnableCactusFruit": "lellson.foodexpansion.crafting.FactoryCactusFruit",
+		"EnableCarrotPie": "lellson.foodexpansion.crafting.FactoryCarrotPie",
+		"EnableBlazeCream": "lellson.foodexpansion.crafting.FactoryBlazeCream",
+		"EnableMelonSalad": "lellson.foodexpansion.crafting.FactoryMelonSalad",
+		"EnableDough": "lellson.foodexpansion.crafting.FactoryDough",
+		"EnableLollipop": "lellson.foodexpansion.crafting.FactoryLollipop",
+		"EnableBeetrootNoodles": "lellson.foodexpansion.crafting.FactoryBeetrootNoodles",
+		"EnableForbiddenFruit": "lellson.foodexpansion.crafting.FactoryForbiddenFruit",
+		"EnableStarvingFruit": "lellson.foodexpansion.crafting.FactoryStarvingFruit"
+    }
+}

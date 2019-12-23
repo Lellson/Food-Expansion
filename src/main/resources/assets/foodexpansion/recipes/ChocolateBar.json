@@ -1,0 +1,30 @@
+{
+  "result": {
+      "item": "foodexpansion:itemChocolateBar"
+  },
+  "type": "forge:ore_shapeless",
+  "ingredients": [
+    {
+        "item": "minecraft:dye",
+		"data": 3
+	},
+	{
+		"item": "minecraft:dye",
+		"data": 3
+	},
+	{
+		"item": "minecraft:sugar"
+	},
+	{
+		"item": "minecraft:sugar"
+	},
+	{
+		"item": "minecraft:milk_bucket"
+    }
+  ],
+  "conditions": [
+	{
+		"type": "foodexpansion:EnableChocolateBar"
+	}
+  ]
+}

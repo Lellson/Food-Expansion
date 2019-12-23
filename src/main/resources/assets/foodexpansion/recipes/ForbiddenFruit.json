@@ -1,0 +1,25 @@
+{
+  "result": {
+    "item": "foodexpansion:itemForbiddenFruit"
+  },
+  "pattern": [
+    "ggg",
+    "gdg",
+    "ggg"
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "g": {
+      "item": "minecraft:golden_apple",
+	  "data": "0"
+    },
+    "d": {
+      "item": "minecraft:diamond_block"
+    }
+  },
+  "conditions": [
+	{
+		"type": "foodexpansion:EnableForbiddenFruit"
+	}
+  ]
+}

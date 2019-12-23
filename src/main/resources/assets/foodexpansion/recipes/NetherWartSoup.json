@@ -1,0 +1,25 @@
+{
+  "result": {
+      "item": "foodexpansion:itemNetherWartSoup"
+  },
+  "type": "forge:ore_shapeless",
+  "ingredients": [
+    {
+        "item": "minecraft:bowl"
+	},
+	{
+		"item": "minecraft:nether_wart"
+	},
+	{
+		"item": "minecraft:nether_wart"
+	},
+	{
+		"item": "minecraft:sugar"
+	}
+  ],
+  "conditions": [
+	{
+		"type": "foodexpansion:EnableNetherWartSoup"
+	}
+  ]
+}

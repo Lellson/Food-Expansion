@@ -1,0 +1,25 @@
+{
+  "result": {
+      "item": "foodexpansion:itemBlazeCream"
+  },
+  "type": "forge:ore_shapeless",
+  "ingredients": [
+    {
+        "item": "minecraft:bowl"
+	},
+	{
+		"item": "minecraft:blaze_powder"
+	},
+	{
+		"item": "minecraft:blaze_powder"
+	},
+	{
+		"item": "minecraft:milk_bucket"
+	}
+  ],
+  "conditions": [
+	{
+		"type": "foodexpansion:EnableBlazeCream"
+	}
+  ]
+}

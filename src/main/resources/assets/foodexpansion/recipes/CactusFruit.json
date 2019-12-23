@@ -1,0 +1,16 @@
+{
+  "result": {
+      "item": "foodexpansion:itemCactusFruit"
+  },
+  "type": "forge:ore_shapeless",
+  "ingredients": [
+    {
+        "item": "minecraft:cactus"
+	}
+  ],
+  "conditions": [
+	{
+		"type": "foodexpansion:EnableCactusFruit"
+	}
+  ]
+}
